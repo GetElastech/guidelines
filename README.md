@@ -2,7 +2,7 @@
 Project coding guidelines
 
 When working on a feature:
-1. Create a feature branch in the GetElastech fork repo https://github.com/GetElastech
+1. Create a feature branch in the GetElastech fork repo https://github.com/GetElastech e.g. https://github.com/GetElastech/flow-go/tree/feature/observer
 2. Do smaller bite-sized PRs into that dev branch. These can be reviewed by Elastech team + DL team members as needed, and merged into the feature branch.
 3. Rebase this branch regularly on top of the upstream master, add commits for any conflicts
 4. Submit large feature branch pull request upstream to onflow/flow-go repo, and Dapper will do code review of final branch.
